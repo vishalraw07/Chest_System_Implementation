@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86864118ec303954c842ae4f3ef24924, type: 3}
+  m_Name: Legendary Chest
+  m_EditorClassIdentifier: 
+  Chest_Coins_Range: {x: 1000, y: 1200}
+  Chest_Gems_Range: {x: 80, y: 100}
+  Unlock_Time: 10800
+  Gems_To_Unlock: 18
+  Max_Unlock_Time: 10800
+  Max_Gems_To_Unlock: 18
+  ChestView: {fileID: 1581629000664776725, guid: 5c9eff35691e0014eaf89c3fbfbd5b74, type: 3}
+  Chest_Type: 3
